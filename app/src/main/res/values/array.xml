@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotesArray">
+        <item>Your diet is a bank account. Good food choices are good investments.</item>
+        <item>I think of dieting, then I eat Pizza.</item>
+        <item>"Pasta does't make you fat. How much pasta you eat makes you fat."</item>
+        <item>"People have got to learn: if they don't have cookies in the cookie jar, they can't eat cookies."</item>
+    </string-array>
+</resources>

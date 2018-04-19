@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyDiet</string>
+
+    <string name="quote1">Quote1</string>
+    <string name="quote2">Quote2</string>
+    <string name="quote3">Quote3</string>
+    <string name="quote4">Quote4</string>
+
+</resources>
